@@ -1,3 +1,30 @@
+img {
+  width: 100%; 
+  height: auto;
+}
+
+.nav-button {
+  background-color: gray;
+  color: red;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+header {
+  background-color: yellow;  
+}
+
+footer {
+  margin-top: 10px;
+  background-color: yellow;  
+  text-align: center;
+}
+
 .fa {
     padding: 20px;
     font-size: 30px;
